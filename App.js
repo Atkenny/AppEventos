@@ -16,7 +16,6 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      {/* Logo Section */}
       <Image source={require('./assets/logofreeCode.png')} style={styles.logo} />
       <View style={styles.counterBox}>
         <Text style={styles.counterText}>{count}</Text>
