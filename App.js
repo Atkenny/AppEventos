@@ -42,7 +42,6 @@ const styles = StyleSheet.create({
   counterBox: {
     borderWidth: 2,
     borderColor: '#fff',
-    padding: 30,
     height: 170,
     width: 150,
     marginBottom: 0,
